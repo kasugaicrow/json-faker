@@ -1,1 +1,18 @@
-{}
+{
+  "users": [
+    {
+      "userId": "b947c67f-a510-41ce-a5e1-472399463090",
+      "firstName": "Christian",
+      "lastName": "Predebon",
+      "username": "kasugaicrow",
+      "modifiedAt": "2021-09-15 12:23:55"
+    },
+    {
+      "userId": "31bc0c06-0034-4eb9-b0a0-fba73c077fac",
+      "firstName": "Frank",
+      "lastName": "Asimov",
+      "username": "frasimov",
+      "modifiedAt": "2021-09-15 12:25:39"
+    }
+  ]
+}
